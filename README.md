@@ -1,6 +1,6 @@
 ## 🏅 Linux Foundation Skill Badge
 
-[![Linux Foundation Badge](https://images.credly.com/size/220x220/1d985a95-4864-4910-a43a-070cf6275aa2.png)](https://www.credly.com/badges/1d985a95-4864-4910-a43a-070cf6275aa2)
+[![SC103: Shell Scripting using Bash](https://images.credly.com/size/220x220/images/62ed61bd-120c-487b-8d0f-aea54f414b2b/image.png)](https://www.credly.com/badges/1d985a95-4864-4910-a43a-070cf6275aa2)
 
 
 
